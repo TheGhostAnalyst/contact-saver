@@ -38,7 +38,7 @@ A simple Python CLI tool to save and search contact information securely using P
 
 Run the script:
 ```
-python contacts_saver.py
+python3 contact-saver.py
 ```
 
 You will see a menu with options:
